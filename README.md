@@ -1,2 +1,2 @@
-# IRIS-Classification
-We are going to classify Iris species based on the data. I have choosen a simple dataset to start becauseI want to concentrate more on the steps involved in building a machine learning projects instead of the complexity of the skill. Once we master this, we can start solving more complex problems.
+# HR-Analytics
+HR analytics is revolutionising the way human resources departments operate, leading to higher efficiency and better results overall. Human resources has been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR.   Therefore, it is surprising that HR departments woke up to the utility of machine learning so late in the game. We will create a predictive analytics in HR Domain.
